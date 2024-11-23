@@ -1,0 +1,3 @@
+/home/xiayang/xiayang/GitHub/OpenCV/02/CMakeFiles/edit_cache.dir
+/home/xiayang/xiayang/GitHub/OpenCV/02/CMakeFiles/rebuild_cache.dir
+/home/xiayang/xiayang/GitHub/OpenCV/02/CMakeFiles/ImageTransfer.dir
